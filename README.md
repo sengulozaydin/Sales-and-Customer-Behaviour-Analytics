@@ -86,10 +86,6 @@ The Power BI dashboard file can be downloaded from the link below:
 
 ## Dashboard Screenshots
 
-Dashboard screenshots are available in the Images folder.
-[View Screenshots](./images)
-## Dashboard Screenshots
-
 ### Sales Performance
 ![Sales Performance](images/P1.png)
 
@@ -123,5 +119,8 @@ Dashboard screenshots are available in the Images folder.
 ### Customer Behaviour by Gender and Category
 ![Customer Behaviour by Gender and Category](images/P11.png)
 
+
+Dashboard screenshots are also available in the Images folder.
+[View Screenshots](./images)
 
 
