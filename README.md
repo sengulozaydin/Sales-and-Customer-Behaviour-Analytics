@@ -8,6 +8,10 @@ This project focuses on understanding customer behaviour, sales performance, pro
 
 The analysis was conducted using The Look E-Commerce Dataset and includes exploratory data analysis, KPI monitoring, customer segmentation, and business insight generation.
 
+## Team Project
+
+This project was developed collaboratively by a team of three members. My contributions included dashboard development, data analysis, business insight generation, and visualization design using Power BI.
+
 ## Dataset
 
 The Look E-Commerce Dataset contains realistic e-commerce data including customers, orders, products, inventory items, distribution centers, events, and sales transactions.
