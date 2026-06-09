@@ -87,3 +87,4 @@ The Power BI dashboard file can be downloaded from the link below:
 ## Dashboard Screenshots
 
 Dashboard screenshots are available in the Images folder.
+[View Screenshots](./images)
