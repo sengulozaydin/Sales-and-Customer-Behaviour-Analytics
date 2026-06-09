@@ -88,3 +88,39 @@ The Power BI dashboard file can be downloaded from the link below:
 
 Dashboard screenshots are available in the Images folder.
 [View Screenshots](./images)
+
+![P1](images/P1.png)
+
+### Customer Analytics
+![P2](images/P2.png)
+
+### Sales Performance
+![P3](images/P3.png)
+
+### Category Analysis
+![P4](images/P4.png)
+
+### Customer Spending Analysis
+![P5](images/P5.png)
+
+### Inventory Analysis
+![P6](images/P6.png)
+
+### Marketing Analytics
+![P7](images/P7.png)
+
+### Geographic Analysis
+![P8](images/P8.png)
+
+### KPI Monitoring
+![P9](images/P9.png)
+
+### Business Intelligence Dashboard
+![P10](images/P10.png)
+
+### Additional Insights
+![P11](images/P11.png)
+
+
+
+
