@@ -1,20 +1,24 @@
-# Sales-and-Customer-Behaviour-Analytics
-Interactive Power BI dashboards for customer behaviour, sales performance and business insights.
-# Sales and Customer Behaviour Analytics
+# The Look E-Commerce Sales and Customer Behaviour Analytics
 
-Comprehensive sales and customer behaviour analysis project developed using Power BI.
+Comprehensive sales and customer behaviour analysis project developed using Power BI and The Look E-Commerce Dataset.
 
 ## Project Overview
 
 This project focuses on understanding customer behaviour, sales performance, product performance, category trends, inventory management, marketing effectiveness, and business growth opportunities through interactive Power BI dashboards.
 
-The analysis was conducted using a realistic e-commerce dataset and includes exploratory data analysis, KPI monitoring, customer segmentation, and business insight generation.
+The analysis was conducted using The Look E-Commerce Dataset and includes exploratory data analysis, KPI monitoring, customer segmentation, and business insight generation.
+
+## Dataset
+
+The Look E-Commerce Dataset contains realistic e-commerce data including customers, orders, products, inventory items, distribution centers, events, and sales transactions.
 
 ## Technologies Used
 
 - Power BI
 - Power Query
 - DAX
+- SQL
+- BigQuery
 - Data Modeling
 - Data Visualization
 - Business Analytics
@@ -70,7 +74,7 @@ The analysis was conducted using a realistic e-commerce dataset and includes exp
 - Marketing effectiveness and campaign performance were analyzed.
 - Inventory and operational insights were generated to support business decisions.
 
-  ## Power BI Dashboard File
+ ## Power BI Dashboard File
 
 The Power BI dashboard file can be downloaded from the link below:
 
