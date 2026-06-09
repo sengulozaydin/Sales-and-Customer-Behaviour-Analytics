@@ -88,39 +88,40 @@ The Power BI dashboard file can be downloaded from the link below:
 
 Dashboard screenshots are available in the Images folder.
 [View Screenshots](./images)
-
-![P1](images/P1.png)
-
-### Customer Analytics
-![P2](images/P2.png)
+## Dashboard Screenshots
 
 ### Sales Performance
-![P3](images/P3.png)
+![Sales Performance](images/P1.png)
 
-### Category Analysis
-![P4](images/P4.png)
+### Product Performance
+![Product Performance](images/P2.png)
 
-### Customer Spending Analysis
-![P5](images/P5.png)
+### Category Performance
+![Category Performance](images/P3.png)
 
-### Inventory Analysis
-![P6](images/P6.png)
+### KPI Dashboard
+![KPI Dashboard](images/P4.png)
 
-### Marketing Analytics
-![P7](images/P7.png)
+### Sales Distribution
+![Sales Distribution](images/P5.png)
 
-### Geographic Analysis
-![P8](images/P8.png)
+### Customer Behaviour by Basket Status
+![Customer Behaviour by Basket Status](images/P6.png)
 
-### KPI Monitoring
-![P9](images/P9.png)
+### Root Cause Analysis of Sudden Sales Drop
+![Root Cause Analysis of Sudden Sales Drop](images/P7.png)
 
-### Business Intelligence Dashboard
-![P10](images/P10.png)
+### Customer Spending Distribution
+![Customer Spending Distribution](images/P8.png)
 
-### Additional Insights
-![P11](images/P11.png)
+### Customer Order Behaviour Analysis
+![Customer Order Behaviour Analysis](images/P9.png)
 
+### Customer Behaviour by Category
+![Customer Behaviour by Category](images/P10.png)
+
+### Customer Behaviour by Gender and Category
+![Customer Behaviour by Gender and Category](images/P11.png)
 
 
 
